@@ -1,0 +1,39 @@
+
+
+
+
+
+
+W1870584 Consultation Appointment - 2023-01-14
+
+Doctor added to the Center :
+Doctor Name - Ranjan Mohan
+Dr.  Ranjan Mohan's License Number : 12345
+Dr. Ranjan Mohan's Specialization : mBBD
+Dr. Ranjan Mohan's Date Of Birth : 1990-09-16
+Dr. Ranjan Mohan's Age :  33
+
+Doctor added to the Center :
+Doctor Name - Ranjan Jana
+Dr.  Ranjan Jana's License Number : 12345
+Dr. Ranjan Jana's Specialization : MBBS
+Dr. Ranjan Jana's Date Of Birth : 1991-10-12
+Dr. Ranjan Jana's Age :  32
+
+   Dr. Ranjan Mohan
+   Doctor's License Number : 12345
+   Doctor's Specialisation : mBBD
+   Doctor's Mobile Number : 771234567
+   Doctor's Date Of Birth : 1990-09-16
+
+   Doctor's Age 33
+   Dr. Ranjan Jana
+   Doctor's License Number : 12345
+   Doctor's Specialisation : MBBS
+   Doctor's Mobile Number : 12345
+   Doctor's Date Of Birth : 1991-10-12
+
+   Doctor's Age 32
+
+
+
